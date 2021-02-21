@@ -7,7 +7,7 @@
   - [Contact Me](#contact-me)
 
   ## Links
-  Deployed Application: https://shannonquinn91.github.io/React-Employee-Directory/
+  Deployed Application: https://shannonquinn91.github.io/React-Employee-Directory/  
   Repo: https://github.com/shannonquinn91/React-Employee-Directory
   ## Description
   This project uses React and the Random User API to display the use of React in updating UI components. Upon page load, the user is shown 50 employees. The user can sort the employees by last name, or by ID. The user can filter their employees by gender. If the user has filtered employees out, they can always revert back to the entire list by clicking the Clear Filters button.    
@@ -21,7 +21,7 @@
   
 
   ## Screenshots
-  What the users sees when the page loads:
+  What the users sees when the page loads:  
   ![load](assests/load.png)  
   Sort employees on last names:
   ![lastnames](assets/lastnames.png)  
